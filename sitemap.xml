@@ -156,7 +156,16 @@
     <loc>https://aambroj.github.io/Autopsia_Digital/en/secure-payment.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/sobre.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/en/about.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
+
 
 
 

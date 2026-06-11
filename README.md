@@ -104,3 +104,9 @@ Para comprobar que la web mantiene sus archivos principales, contacto y estructu
 - docs/stripe-payment-links.md: guia interna para crear enlaces de pago con Stripe.
 - pago-seguro.html: pagina publica prudente sobre pago seguro.
 - en/secure-payment.html: secure payment page in English.
+
+## Sobre el creador
+
+- sobre.html: pagina de confianza en espanol.
+- en/about.html: about page in English.
+- docs/perfil-creador.md: perfil interno reutilizable.
