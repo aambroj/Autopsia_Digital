@@ -1,0 +1,15 @@
+﻿Autopsia Digital / Product Autopsy AI
+
+Created by: Alberto Ambroj
+Contact: aambroj@yahoo.es
+Website: https://aambroj.github.io/Autopsia_Digital
+
+Purpose:
+Strategic diagnosis for digital products that do not sell, convert or get traction.
+
+Technology:
+Static HTML + CSS
+Hosted on GitHub Pages
+
+Copyright:
+© 2026 Alberto Ambroj. All rights reserved.

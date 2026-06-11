@@ -1,0 +1,6 @@
+﻿Contact: mailto:aambroj@yahoo.es
+Preferred-Languages: es, en
+Canonical: https://aambroj.github.io/Autopsia_Digital/.well-known/security.txt
+Policy: https://aambroj.github.io/Autopsia_Digital/aviso-legal.html
+
+Please report security issues related to this static website by email.

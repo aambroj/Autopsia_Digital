@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://aambroj.github.io/Autopsia_Digital/sitemap.xml
