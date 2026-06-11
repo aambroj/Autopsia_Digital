@@ -72,6 +72,15 @@
     <loc>https://aambroj.github.io/Autopsia_Digital/en/terms.html</loc>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/entregable.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/en/deliverable.html</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
+
 
 
