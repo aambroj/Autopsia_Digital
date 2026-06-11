@@ -80,3 +80,9 @@ Paginas:
 - en/contact.html: contact page in English.
 
 La web no almacena solicitudes ni datos de clientes. Si una persona pulsa el boton pero no envia el correo desde su aplicacion de email, no llegara ninguna solicitud.
+
+## Verificacion local
+
+Para comprobar que la web mantiene sus archivos principales, contacto y estructura basica:
+
+.\scripts\verificar-web.ps1
