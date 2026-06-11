@@ -65,3 +65,18 @@ El resultado es un informe claro con una decisión recomendada:
 
 
 
+
+## Contacto
+
+La web usa contacto directo por email mediante enlaces mailto.
+
+Canal oficial:
+
+aambroj@yahoo.es
+
+Paginas:
+
+- contacto.html: contacto en espanol.
+- en/contact.html: contact page in English.
+
+La web no almacena solicitudes ni datos de clientes. Si una persona pulsa el boton pero no envia el correo desde su aplicacion de email, no llegara ninguna solicitud.
