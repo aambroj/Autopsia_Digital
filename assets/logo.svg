@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220">
+  <rect width="900" height="220" rx="28" fill="#07111f"/>
+  <circle cx="105" cy="110" r="62" fill="none" stroke="#38bdf8" stroke-width="12"/>
+  <path d="M75 142 L99 78 H113 L137 142 H120 L115 128 H97 L92 142 Z M101 114 H111 L106 96 Z" fill="#f8fafc"/>
+  <text x="190" y="105" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800">Autopsia Digital</text>
+  <text x="190" y="152" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="25">Product Autopsy AI</text>
+  <text x="190" y="185" fill="#38bdf8" font-family="Arial, Helvetica, sans-serif" font-size="18">Diagnosis for digital products that do not sell</text>
+</svg>

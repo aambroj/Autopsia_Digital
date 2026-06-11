@@ -88,7 +88,16 @@
     <loc>https://aambroj.github.io/Autopsia_Digital/en/use-cases.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/brand.html</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/en/brand.html</loc>
+    <priority>0.6</priority>
+  </url>
 </urlset>
+
 
 
 
