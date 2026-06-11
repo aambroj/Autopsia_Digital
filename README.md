@@ -1,24 +1,37 @@
 ﻿# Autopsia Digital
 
-Web inicial para ofrecer diagnósticos de productos digitales que no venden.
+Diagnóstico estratégico para productos digitales que no venden.
 
-## Propuesta
+## Propuesta de valor
 
-Autopsia Digital analiza apps, webs, landing pages, SaaS, cursos, ebooks o ideas digitales y entrega un diagnóstico claro:
+Autopsia Digital analiza apps, webs, landing pages, SaaS, cursos, ebooks, herramientas digitales o ideas online para detectar por qué no venden, no convierten o no consiguen usuarios.
 
-- Qué falla.
-- Qué se puede salvar.
-- Qué cambiar.
-- Si conviene relanzar, pivotar o cerrar.
+El resultado es un informe claro con una decisión recomendada:
 
-## Estado
+- Relanzar.
+- Pivotar.
+- Enterrar.
+- Pausar e investigar más.
 
-Versión inicial estática sin backend.
+## Archivos principales
+
+- `index.html`: web principal.
+- `muestra.html`: informe de muestra.
+- `plantilla-informe-autopsia.md`: plantilla interna para preparar diagnósticos.
+- `privacidad.html`: política de privacidad inicial.
+- `aviso-legal.html`: aviso legal inicial.
+- `assets/styles.css`: estilos de la web.
+
+## Planes iniciales
+
+- Autopsia Express: 49 €
+- Autopsia Completa: 149 €
+- Autopsia Premium: 299 €
 
 ## Próximos pasos
 
 1. Publicar gratis en GitHub Pages.
-2. Crear formulario real.
-3. Añadir versión en inglés: Product Autopsy AI.
-4. Preparar primer informe de ejemplo.
-5. Crear plantilla de diagnóstico.
+2. Crear versión internacional: Product Autopsy AI.
+3. Preparar formulario real.
+4. Crear una muestra en PDF.
+5. Publicar en LinkedIn, Reddit, Indie Hackers, Product Hunt y grupos de emprendedores.
