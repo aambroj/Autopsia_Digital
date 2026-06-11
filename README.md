@@ -47,7 +47,7 @@ El resultado es un informe claro con una decisión recomendada:
 
 - Autopsia Express: 49 €
 - Autopsia Completa: 149 €
-- Autopsia Premium: 299 €
+- Autopsia Premium + Estudio de Mercado Estratégico: 399 €
 
 - Express Autopsy: $49
 - Full Autopsy: $149
@@ -56,3 +56,4 @@ El resultado es un informe claro con una decisión recomendada:
 ## Copyright
 
 © 2026 Alberto Ambroj. All rights reserved.
+
