@@ -56,5 +56,22 @@
     <loc>https://aambroj.github.io/Autopsia_Digital/en/market-study.html</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/faq.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/condiciones-servicio.html</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/en/faq.html</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://aambroj.github.io/Autopsia_Digital/en/terms.html</loc>
+    <priority>0.5</priority>
+  </url>
 </urlset>
+
 
