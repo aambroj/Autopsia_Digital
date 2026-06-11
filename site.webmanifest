@@ -1,0 +1,16 @@
+﻿{
+  "name": "Autopsia Digital / Product Autopsy AI",
+  "short_name": "Product Autopsy",
+  "description": "Strategic diagnosis for digital products that do not sell.",
+  "start_url": "/Autopsia_Digital/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

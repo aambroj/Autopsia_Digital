@@ -1,0 +1,52 @@
+﻿# Autopsia Digital / Product Autopsy AI
+
+Autopsia Digital / Product Autopsy AI is a bilingual strategic diagnosis service for digital products that are not selling, converting or getting users.
+
+## Main URLs
+
+- Spanish homepage: https://aambroj.github.io/Autopsia_Digital/
+- English homepage: https://aambroj.github.io/Autopsia_Digital/en/
+- Use cases: https://aambroj.github.io/Autopsia_Digital/en/use-cases.html
+- Methodology: https://aambroj.github.io/Autopsia_Digital/en/methodology.html
+- Market study: https://aambroj.github.io/Autopsia_Digital/en/market-study.html
+- Deliverable: https://aambroj.github.io/Autopsia_Digital/en/deliverable.html
+- Order: https://aambroj.github.io/Autopsia_Digital/en/order.html
+- FAQ: https://aambroj.github.io/Autopsia_Digital/en/faq.html
+
+## Service summary
+
+Product Autopsy AI analyzes apps, websites, landing pages, SaaS products, online courses, ebooks, newsletters, internal tools, prototypes and digital ideas.
+
+The goal is to find out why a digital product is not selling, converting or getting traction, and provide a clear decision:
+
+- Relaunch.
+- Reposition.
+- Pause.
+- Shut down.
+
+## Plans
+
+- Express Autopsy: $49 / 49 €
+- Full Autopsy: $149 / 149 €
+- Premium Autopsy + Strategic Market Study: $399 / 399 €
+
+## Methodology
+
+The Product Autopsy Score evaluates 8 areas:
+
+- Clarity.
+- Target customer.
+- Real pain.
+- Differentiation.
+- Trust.
+- Offer.
+- Conversion.
+- Viability.
+
+Maximum score: 40 points.
+
+## Owner
+
+Created by Alberto Ambroj.
+
+Contact: aambroj@yahoo.es
