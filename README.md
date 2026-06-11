@@ -92,3 +92,9 @@ Para comprobar que la web mantiene sus archivos principales, contacto y estructu
 - pago.html: proceso de pago y confirmacion en espanol.
 - en/payment.html: payment and confirmation process in English.
 - docs/flujo-cobro.md: flujo interno recomendado para primeros clientes.
+
+## Caso demo
+
+- caso-demo.html: caso ficticio en espanol.
+- en/demo-case.html: fictional demo case in English.
+- docs/caso-demo-habitpro.md: documento interno del caso demo.
