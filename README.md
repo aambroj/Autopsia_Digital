@@ -98,3 +98,9 @@ Para comprobar que la web mantiene sus archivos principales, contacto y estructu
 - caso-demo.html: caso ficticio en espanol.
 - en/demo-case.html: fictional demo case in English.
 - docs/caso-demo-habitpro.md: documento interno del caso demo.
+
+## Stripe Payment Links
+
+- docs/stripe-payment-links.md: guia interna para crear enlaces de pago con Stripe.
+- pago-seguro.html: pagina publica prudente sobre pago seguro.
+- en/secure-payment.html: secure payment page in English.
