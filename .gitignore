@@ -1,11 +1,9 @@
-﻿# Carpetas privadas de clientes
-_clientes_privado/
+﻿_clientes_privado/
 clientes_privado/
 casos_privados/
 informes_privados/
 reports_private/
 
-# Datos reales de clientes
 *.xlsx
 *.xls
 *.docx
@@ -14,13 +12,6 @@ reports_private/
 *.7z
 *.rar
 
-# Capturas o material sensible
-*.png
-*.jpg
-*.jpeg
-*.webp
-
-# Temporales
 *.tmp
 *.bak
 .DS_Store
