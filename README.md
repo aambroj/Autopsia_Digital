@@ -86,3 +86,9 @@ La web no almacena solicitudes ni datos de clientes. Si una persona pulsa el bot
 Para comprobar que la web mantiene sus archivos principales, contacto y estructura basica:
 
 .\scripts\verificar-web.ps1
+
+## Pago
+
+- pago.html: proceso de pago y confirmacion en espanol.
+- en/payment.html: payment and confirmation process in English.
+- docs/flujo-cobro.md: flujo interno recomendado para primeros clientes.
